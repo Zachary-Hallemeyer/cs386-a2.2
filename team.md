@@ -1,4 +1,5 @@
-#Zachary Hallemeyer
-#Cristian Marrufo
-#Suji Baek
-#Gavin Russell
+# Zachary Hallemeyer - add personal info to team.md
+# Cristian Marrufo - add personal info to team.md
+# Suji Baek - add personal info to team.md
+# Gavin Russell - add personal info to team.md
+# Nicholas Ray - add personal info to team.md
