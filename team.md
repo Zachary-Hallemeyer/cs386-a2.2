@@ -1,5 +1,6 @@
 # Zachary Hallemeyer - add personal info to team.md
 # Cristian Marrufo - add personal info to team.md
+# hey there my name is cristian 
 # Suji Baek - add personal info to team.md
 # Gavin Russell - add personal info to team.md
 # Nicholas Ray - add personal info to team.md
